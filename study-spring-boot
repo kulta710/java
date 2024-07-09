@@ -1,0 +1,62 @@
+# study-spring-boot
+
+## Spring Boot in Visual Studio Code
+- JAVA
+    - [Getting Started](https://code.visualstudio.com/docs/java/java-tutorial) ✅
+    - [Navigate and Edit](https://code.visualstudio.com/docs/java/java-editing)
+    - [Refactoring](https://code.visualstudio.com/docs/java/java-refactoring)
+    - [Formatting and Linting](https://code.visualstudio.com/docs/java/java-linting)
+    - [Project Management](https://code.visualstudio.com/docs/java/java-project)
+    - [Build Tools](https://code.visualstudio.com/docs/java/java-build)
+    - [Run and Debug](https://code.visualstudio.com/docs/java/java-debugging)
+    - [Testing](https://code.visualstudio.com/docs/java/java-testing)
+    - [Spring Boot](https://code.visualstudio.com/docs/java/java-spring-boot) ✅
+    - [Application Servers](https://code.visualstudio.com/docs/java/java-tomcat-jetty)
+    - [Deploy Java Apps](https://code.visualstudio.com/docs/java/java-on-azure)
+    - [GUI Applications](https://code.visualstudio.com/docs/java/java-gui)
+    - [Extensions](https://code.visualstudio.com/docs/java/extensions)
+    - [FAQ](https://code.visualstudio.com/docs/java/java-faq)
+
+##
+### Sping Boot 2.x Quick Start 강의
+- [01. 스프링 부트란](https://www.youtube.com/watch?v=4-0scAf5tpU&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=1) ✅
+- [02. 학습 개요](https://www.youtube.com/watch?v=whjKsbp06jI&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=2) ✅
+- [03. Spring Tools 4 for Eclipse 다운로드](https://www.youtube.com/watch?v=AfEFznDEBZQ&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=3) ✅
+- [04. Spring Boot Starter 프로젝트 만들기](https://www.youtube.com/watch?v=MTUOVYRXbl4&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=4) ✅
+- [05. 수업용 HTML 파일 준비하기](https://www.youtube.com/watch?v=T5sz_88VVGc&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=5) ✅
+- [06. View를 인식시키는 Jasper 라이브러리 추가하기](https://www.youtube.com/watch?v=gomCQF5cCJ4&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=6) ✅
+- [07. 사용자 공지를 위한 MVC 구현하기](https://www.youtube.com/watch?v=W4NX2IuGvkI&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=7) ✅
+- [08. Mapping, View 위치 바로 잡기](https://www.youtube.com/watch?v=mRhhFDdywFY&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=8) ✅
+- [09. Resource View Resolver 설정하기](https://www.youtube.com/watch?v=ZJw2t6L_sbQ&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=9) ✅
+- [10. DevTools 설정하기](https://www.youtube.com/watch?v=OiDmvniNgqU&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=10) ✅
+- [11. 실습: 관리자 페이지를 위한 공지사항 페이지 추가해보기](https://www.youtube.com/watch?v=9BRDkIpEQdg&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=11) ✅
+- [12. 설명: 관리자 페이지를 위한 공지사항 페이지 추가해보기](https://www.youtube.com/watch?v=vxGpINgPQRM&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=12) ✅
+- [13. 페이지 공통분모 집중화](https://www.youtube.com/watch?v=tL9UfvhtfHc&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=13) ✅
+- [14. Tiles 지시서 작성하기](https://www.youtube.com/watch?v=N5dTiAQqX-M&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=14)
+- [15. Tiles View Resolver 생성하기](https://www.youtube.com/watch?v=JfEBJ9Fs9oc&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=15)
+- [16. Tiles 패턴 사용하기](https://www.youtube.com/watch?v=8DIiRqgvuz0&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=16)
+- [17. Admin을 위한 Layout 페이지 만들기](https://www.youtube.com/watch?v=uLhWt-vzgkE&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=17)
+- [18. Tiles의 추가 기능들](https://www.youtube.com/watch?v=-hcYT6jZ6lk&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=18)
+- [19. MyBtis 설정하는 방법](https://www.youtube.com/watch?v=RU8wpZg-nH8&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=19)
+- [20. Service와 Dao 구현체 준비하기](https://www.youtube.com/watch?v=to4JVSjir2Q&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=20)
+- [21. Mapper 객체 만들기](https://www.youtube.com/watch?v=wmbR4nmsKeM&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=21)
+- [22. 스프링에서 객체 사용방법(dependency와 injection 그리고 IoC 컨테이너)](https://www.youtube.com/watch?v=2-Mk5Y20Jek&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=22)
+- [23. Mapper 객체를 이용해서 공지목록 출력하기](https://www.youtube.com/watch?v=KQq_S63H89w&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=23)
+- [24. Notice 뷰 만들기](https://www.youtube.com/watch?v=Yq6YBHJWQrk&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=24)
+- [25. MyBtis Column 매핑](https://www.youtube.com/watch?v=1DPiVAuDdUs&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=25)
+- [26. Mapper에 Parameter 사용하기](https://www.youtube.com/watch?v=4o3JUAwEkcQ&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=26)
+- [27. XML을 이용한 매핑](https://www.youtube.com/watch?v=WOr0S9ADVZA&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=27)
+- [28. XML Proposals 오류 문제](https://www.youtube.com/watch?v=_z6CxjQF6BU&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=28)
+- [29. NoticeService 인터페이스 정의하기](https://www.youtube.com/watch?v=KHUP57yjN0c&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=29)
+- [30. NoticeDao 인터페이스 정의하기](https://www.youtube.com/watch?v=EHGs4TLp_5U&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=30)
+- [31. Mapper 구현하기 1 (getCount/getView)](https://www.youtube.com/watch?v=aQDMasRwhVo&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=31)
+- [32. Mapper 구현하기 2 (getNext/getPrev)](https://www.youtube.com/watch?v=UpOsORQSL10&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=32)
+- [33. Mapper 구현하기 3 (insert/update/delete)](https://www.youtube.com/watch?v=j6HrZBkzRj4&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=33)
+- [34. Dynamic SQL Mapper 구현하기 4 (deleteAll)](https://www.youtube.com/watch?v=-0i26K1mh90&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=34)
+- [35. Dynamic SQL Mapper 구현하기 5 (updatePubAll)](https://www.youtube.com/watch?v=lbqTyp04z54&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=35)
+- [36. Dynamic SQL Mapper 구현하기 6 추가된 (updatePubAll)](https://www.youtube.com/watch?v=jz6sWm_djC0&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=36)
+- [37. Dynamic SQL (if, where, trim 태그)](https://www.youtube.com/watch?v=FlqpyN8RmJw&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=37)
+- [38. Mapper 객체 단위 Test with jUnit5와 XML에 resultMap 사용하기](https://www.youtube.com/watch?v=KFHwtmTvCHQ&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=38)
+- [39. Dao 구현체 직접 구현하기 SqlSession](https://www.youtube.com/watch?v=RxvyeZj3eok&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=39)
+- [40. 나머지 Dao 구현체 직접 구현하기 Constructor Injection](https://www.youtube.com/watch?v=bR6T3ArY9nk&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=40)
+- [41. Service 계층 구현하기](https://www.youtube.com/watch?v=r4nEv3Z6_s0&list=PLq8wAnVUcTFWVdN74gn8FksCqwfI_GuJY&index=41)

@@ -1,0 +1,10 @@
+/resources/
+/.metadata/
+
+/practice/new-lecture/spring-web/.mvn/
+/practice/new-lecture/spring-web/.vscode/
+/practice/new-lecture/spring-web/target/
+/practice/new-lecture/spring-web/HELP.md
+/practice/new-lecture/spring-web/mvnw
+/practice/new-lecture/spring-web/mvnw.cmd
+/practice/new-lecture/spring-web/src/main/resources/static/images/

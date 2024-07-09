@@ -1,21 +1,11 @@
 # Create My Own Server
 A project for building my own server
 
-## Visual Studio Code
-### [YouTube] Visual Studio Code
-#### Video List
+## Java in Visual Studio Code
+### Video List
 - [Learn Visual Studio Code in 7min (Official Beginner Tutorial)](https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=1) ✅
-- [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://www.youtube.com/watch?v=i_23KUAEtUM&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=2)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Using Git with Visual Studio Code (Official Beginner Tutorial)](https://www.youtube.com/watch?v=i_23KUAEtUM&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=2) ✅
+- [How to Install & Run Java in Visual Studio Code (Under 4 minutes)[2024 Updated]](https://www.youtube.com/watch?v=gGkBrQNoHDo)
 - []()
 
 ## Amazone Web Services (AWS)
