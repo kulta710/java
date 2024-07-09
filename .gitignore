@@ -1,5 +1,6 @@
 /resources/
 /.metadata/
+/.vscode/
 
 /practice/new-lecture/spring-web/.mvn/
 /practice/new-lecture/spring-web/.vscode/

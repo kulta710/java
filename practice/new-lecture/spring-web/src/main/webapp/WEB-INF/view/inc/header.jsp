@@ -1,4 +1,24 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>공지사항목록 ${test}</title>
+    
+    <link href="/css/customer/layout.css" type="text/css" rel="stylesheet" />
+    <style>
+    
+        #visual .content-container{	
+            height:inherit;
+            display:flex; 
+            align-items: center;
+            
+            background: url("../../images/customer/visual.png") no-repeat center;
+        }
+    </style>
+</head>
+
 <header id="header">
     <div class="content-container">
         <!-- ---------------------------<header>--------------------------------------- -->

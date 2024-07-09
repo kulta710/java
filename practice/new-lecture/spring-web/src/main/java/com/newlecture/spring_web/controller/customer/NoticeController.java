@@ -13,12 +13,14 @@ public class NoticeController {
 
         model.addAttribute("test", "Hello~ DevTools");
 
-        return "customer/notice/list";
+        return "customer/notice/list"; // ResourceViewResolver
+        // return "customer.notice.list"; // TilesViewResolver
     }
 
     @RequestMapping("detail")
     public String detail () {
 
-        return "customer/notice/detail";
+        return "customer/notice/detail"; // ResourceViewResolver
+        // return "customer.notice.detail"; // TilesViewResolver
     }
 }
